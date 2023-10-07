@@ -1,4 +1,4 @@
-# Título do Projeto
+# Bon Voyage
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
@@ -46,7 +46,16 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+<ul>
+	<li>Yuri Ramos Brito - RA 1292220768</li>
+	<li>Diego da Silva Trindade - RA 1302214111</li>
+	<li>Mateus Guimarães dos Santos Lima - RA 12722212309</li>
+	<li>Guilherme Pinheiro Machado da Rocha - RA 1302210652</li>
+	<li>Gabriel Flores Bordin - RA 1302221968</li>
+	<li>Douglas Cardoso Utz - RA 1302211592</li>
+	<li>Thierry Signoretti - RA 1302321281</li>
+	<li>Renato Schipper - RA 1302211159</li>
+</ul>
 
 # Licença
 
