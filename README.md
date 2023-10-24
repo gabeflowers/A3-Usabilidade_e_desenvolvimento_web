@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo informações detalhadas sobre pontos turísticos, restaurantes e atividades em destinos ao redor do mundo. O aplicativo visa simplificar a exploração de novos lugares, oferecendo itinerários personalizados e dicas relevantes para os viajantes. Ao fornecer orientações úteis, o Guia.me pretende tornar as viagens mais acessíveis, permitindo que os usuários desfrutem de experiências autênticas e significativas durante suas aventuras.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -14,7 +14,6 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
@@ -23,15 +22,31 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais 
+# Requisitos Funcionais
+​
+- RF1 - Criação de Itinerário de Viagem: O aplicativo deve permitir que os usuários criem e personalizem itinerários de viagem com datas, horários e destinos específicos.
+​
+- RF2 - Indicação de Pontos Turísticos: O aplicativo deve oferecer informações detalhadas sobre pontos turísticos, incluindo descrições, horários de funcionamento, preços e avaliações dos usuários.
+​
+- RF4 - Permitir o Compartilhamento de Experiências: Os usuários devem poder compartilhar fotos, avaliações e recomendações de locais e atividades.
+​
+- RF5 - Acessibilidade e Necessidades Especiais: O aplicativo deve ser acessível a usuários com necessidades especiais, como suporte a leitores de tela e fontes ajustáveis.
+​
+# Requisitos Não Funcionais
+​
+- 1 - Desempenho: O aplicativo deve ser responsivo e rápido, mesmo em conexões de internet lentas.
+- 2 - Segurança: Deve ser implementada segurança para proteger os dados dos usuários e transações financeiras.
+- 3 - Escalabilidade: O aplicativo deve ser capaz de lidar com um grande número de usuários simultâneos, especialmente durante períodos de alta demanda.
+- 4 - Usabilidade: O aplicativo deve ser intuitivo e fácil de usar, mesmo para usuários não técnicos.
+- 5 - Confiabilidade: Deve ter alta disponibilidade e confiabilidade, minimizando tempo de inatividade e erros.
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
-
+# Personas
+​
+- Persona 1 (https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
+- Persona 2 (https://workspace14198032.xtensio.com/v7tau2ge)
+- Persona 3 (https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
+- Persona 4 (https://workspace26689371.xtensio.com/edit/5muh472r)
+  
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
