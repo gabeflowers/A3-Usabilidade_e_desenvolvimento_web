@@ -14,6 +14,8 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 * [Sobre](#sobre-o-projeto)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Requisitos Não Funcionais](#requisitos-não-funcionais)
+* [Personas e Cenários](#personas-e-cenários)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -35,7 +37,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * RNF4 - Usabilidade: O aplicativo deve ser intuitivo e fácil de usar, mesmo para usuários não técnicos.
 * RNF5 - Confiabilidade: Deve ter alta disponibilidade e confiabilidade, minimizando tempo de inatividade e erros.
 
-# Personas
+# Personas e Cenários
 
 * Persona 1 (https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
 * Persona 2 (https://workspace14198032.xtensio.com/v7tau2ge)
@@ -67,7 +69,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
