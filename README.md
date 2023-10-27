@@ -26,8 +26,8 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 * RF1 - Criação de Itinerário de Viagem: O aplicativo deve permitir que os usuários criem e personalizem itinerários de viagem com datas, horários e destinos específicos.
 * RF2 - Indicação de Pontos Turísticos: O aplicativo deve oferecer informações detalhadas sobre pontos turísticos, incluindo descrições, horários de funcionamento, preços e avaliações dos usuários.
-* RF4 - Permitir o Compartilhamento de Experiências: Os usuários devem poder compartilhar fotos, avaliações e recomendações de locais e atividades.
-* RF5 - Acessibilidade e Necessidades Especiais: O aplicativo deve ser acessível a usuários com necessidades especiais, como suporte a leitores de tela e fontes ajustáveis.
+* RF3 - Permitir o Compartilhamento de Experiências: Os usuários devem poder compartilhar fotos, avaliações e recomendações de locais e atividades.
+* RF4 - Acessibilidade e Necessidades Especiais: O aplicativo deve ser acessível a usuários com necessidades especiais, como suporte a leitores de tela e fontes ajustáveis.
 
 # Requisitos Não Funcionais
 
