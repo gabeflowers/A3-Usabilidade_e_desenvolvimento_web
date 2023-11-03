@@ -1,4 +1,6 @@
-# Bon Voyage
+# Equipe Bon Voyage
+
+Projeto Guia.me
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
@@ -42,7 +44,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * Persona 1 (https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
 * Persona 2 (https://workspace14198032.xtensio.com/v7tau2ge)
 * Persona 3 (https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
-* Persona 4 (https://workspace26689371.xtensio.com/edit/5muh472r)
+* Persona 4 (https://workspace26689371.xtensio.com/5muh472r)
 * Persona 5 (https://workspace35010483.xtensio.com/p6znh2qg)
   
 # Tecnologias Usadas
