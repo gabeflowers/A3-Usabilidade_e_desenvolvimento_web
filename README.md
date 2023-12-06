@@ -46,14 +46,15 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * Persona 3 (https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
 * Persona 4 (https://workspace26689371.xtensio.com/5muh472r)
 * Persona 5 (https://workspace35010483.xtensio.com/p6znh2qg)
-  
+
+# Protótipo lo-fi
+
+Todas as telas de baixa fidelidade se encontram [aqui](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/prototype/lo-fi_prototype.pdf).
+
 # Tecnologias Usadas
 
-* [Flutter](https://flutter.dev/)
-* [Node.js](https://nodejs.org/en/)
-* [React](https://pt-br.reactjs.org/)
-* [React Native](https://reactnative.dev/)
-* [TypeScript](https://www.typescriptlang.org/)
+* [Balsamiq](https://balsamiq.com/)
+* [Figma](https://www.figma.com/)
 
 # Contribuição
 
