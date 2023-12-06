@@ -18,6 +18,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Requisitos Não Funcionais](#requisitos-não-funcionais)
 * [Personas e Cenários](#personas-e-cenários)
+* [Protótipo lo-fi](#protótipo-lo-fi)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
