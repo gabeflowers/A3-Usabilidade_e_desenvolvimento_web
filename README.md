@@ -35,7 +35,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 # Requisitos Não Funcionais
 
 * RNF1 - Desempenho: O aplicativo deve ser responsivo e rápido, mesmo em conexões de internet lentas.
-* RNF2 - Segurança: Deve ser implementada segurança para proteger os dados dos usuários e transações financeiras.
+* RNF2 - Segurança: Deve ser implementada segurança para proteger os dados dos usuários.
 * RNF3 - Escalabilidade: O aplicativo deve ser capaz de lidar com um grande número de usuários simultâneos, especialmente durante períodos de alta demanda.
 * RNF4 - Usabilidade: O aplicativo deve ser intuitivo e fácil de usar, mesmo para usuários não técnicos.
 * RNF5 - Confiabilidade: Deve ter alta disponibilidade e confiabilidade, minimizando tempo de inatividade e erros.
