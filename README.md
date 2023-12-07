@@ -12,13 +12,13 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 	🚧  Em desenvolvimento . . .
 </h4>
 
-# Índice/Sumário
+# Sumário
 
-* [Sobre](#sobre-o-projeto)
+* [Sobre o Projeto](#sobre-o-projeto)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Requisitos Não Funcionais](#requisitos-não-funcionais)
 * [Personas e Cenários](#personas-e-cenários)
-* [Protótipo lo-fi](#protótipo-lo-fi)
+* [Protótipos](#protótipos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -42,18 +42,20 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 # Personas e Cenários
 
-* Persona 1 (https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
-* Persona 2 (https://workspace14198032.xtensio.com/v7tau2ge)
-* Persona 3 (https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
-* Persona 4 (https://workspace26689371.xtensio.com/5muh472r)
-* Persona 5 (https://workspace35010483.xtensio.com/p6znh2qg)
+* [Persona 1](https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
+* [Persona 2](https://workspace14198032.xtensio.com/v7tau2ge)
+* [Persona 3](https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
+* [Persona 4](https://workspace26689371.xtensio.com/5muh472r)
+* [Persona 5](https://workspace35010483.xtensio.com/p6znh2qg)
 
-# Protótipo lo-fi
+# Protótipos
 
-Todas as telas de baixa fidelidade se encontram [aqui](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/prototype/lo-fi_prototype.pdf).
+* [Lo-fi](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/prototype/lo-fi_prototype.pdf)
+* [Hi-fi](https://www.figma.com/file/UYgmjmzpNyZHUHrlTl7hWQ/A3---EQUIPE-BON-VOYAGE?type=design&node-id=0-1&mode=design)
 
 # Tecnologias Usadas
 
+* [Xtensio](https://xtensio.com/)
 * [Balsamiq](https://balsamiq.com/)
 * [Figma](https://www.figma.com/)
 
