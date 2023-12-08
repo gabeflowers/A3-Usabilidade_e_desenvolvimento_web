@@ -8,10 +8,6 @@ Projeto Guia.me
 
 O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo informações detalhadas sobre pontos turísticos, restaurantes e atividades em destinos ao redor do mundo. O aplicativo visa simplificar a exploração de novos lugares, oferecendo itinerários personalizados e dicas relevantes para os viajantes. Ao fornecer orientações úteis, o Guia.me pretende tornar as viagens mais acessíveis, permitindo que os usuários desfrutem de experiências autênticas e significativas durante suas aventuras.
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
-
 # Sumário
 
 * [Sobre o Projeto](#sobre-o-projeto)
@@ -19,6 +15,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Requisitos Não Funcionais](#requisitos-não-funcionais)
 * [Personas e Cenários](#personas-e-cenários)
 * [Protótipos](#protótipos)
+* [Avaliações](#avaliações)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -53,11 +50,18 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Lo-fi](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/prototype/lo-fi_prototype.pdf)
 * [Hi-fi](https://www.figma.com/file/UYgmjmzpNyZHUHrlTl7hWQ/A3---EQUIPE-BON-VOYAGE?type=design&node-id=0-1&mode=design)
 
+# Avaliações
+
+* [Heurísticas de Nielsen](#)
+* [SUS](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/evaluations/sus.xlsx)
+
 # Tecnologias Usadas
 
 * [Xtensio](https://xtensio.com/)
 * [Balsamiq](https://balsamiq.com/)
 * [Figma](https://www.figma.com/)
+* [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word)
+* [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 # Contribuição
 
