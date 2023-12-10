@@ -53,7 +53,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 # Avaliações
 
-* [Heurísticas de Nielsen](#)
+* Heurísticas de Nielsen: [Relatório](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/evaluations/nielsen-heuristics/report.pdf) / [Tabela](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/evaluations/nielsen-heuristics/table.pdf)
 * [SUS](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/evaluations/sus.pdf)
 
 # Apresentação
