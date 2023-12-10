@@ -39,9 +39,9 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 # Personas e Cenários
 
-* [Persona 1](https://workspace45044095.xtensio.com/folder/xi38cveo/tg29ug77)
+* [Persona 1](https://workspace45044095.xtensio.com/tg29ug77)
 * [Persona 2](https://workspace14198032.xtensio.com/v7tau2ge)
-* [Persona 3](https://workspace45044095.xtensio.com/folder/xi38cveo/8q7fnio7)
+* [Persona 3](https://workspace45044095.xtensio.com/eov7yabm)
 * [Persona 4](https://workspace26689371.xtensio.com/5muh472r)
 * [Persona 5](https://workspace35010483.xtensio.com/p6znh2qg)
 
@@ -83,5 +83,4 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 Este projeto está licenciado sob a Licença MIT, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Gratidão à equipe do Guia.me pelo excepcional comprometimento ao longo deste projeto, Diego da Silva Trindade, Douglas Cardoso Utz, Gabriel Flores Bordin, Guilherme Pinheiro Machado da Rocha, Mateus Guimarães dos Santos Lima, Renato Schipper, Thierry Signoretti e Yuri Ramos Brito: cada um de vocês trouxe uma perspectiva única, habilidades excepcionais e uma paixão incomparável para este projeto. Desde o desenvolvimento inicial até os testes finais, cada etapa foi superada com colaboração, entusiasmo e profissionalismo.
