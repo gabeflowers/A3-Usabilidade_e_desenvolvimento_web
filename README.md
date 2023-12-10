@@ -68,6 +68,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Figma](https://www.figma.com/)
 * [Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/word)
 * [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+* [Microsoft PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
 
 # Contribuição
 
