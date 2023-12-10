@@ -44,6 +44,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Persona 3](https://workspace45044095.xtensio.com/eov7yabm)
 * [Persona 4](https://workspace26689371.xtensio.com/5muh472r)
 * [Persona 5](https://workspace35010483.xtensio.com/p6znh2qg)
+* [Persona 6](https://workspace45044095.xtensio.com/8q7fnio7)
 
 # Protótipos
 
