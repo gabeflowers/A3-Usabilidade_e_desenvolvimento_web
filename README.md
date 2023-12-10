@@ -47,8 +47,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 # Protótipos
 
-* [Lo-fi](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/prototype/lo-fi_prototype.pdf)
-* [Hi-fi](https://www.figma.com/file/UYgmjmzpNyZHUHrlTl7hWQ/A3---EQUIPE-BON-VOYAGE?type=design&node-id=0-1&mode=design)
+* [Lo-fi e Hi-fi](https://www.figma.com/file/UYgmjmzpNyZHUHrlTl7hWQ/A3---EQUIPE-BON-VOYAGE?type=design&node-id=0-1&mode=design)
 
 # Avaliações
 
