@@ -16,6 +16,7 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 * [Personas e Cenários](#personas-e-cenários)
 * [Protótipos](#protótipos)
 * [Avaliações](#avaliações)
+* [Apresentação](#apresentação)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -54,6 +55,11 @@ O Guia.me tem como objetivo facilitar as viagens dos usuários, fornecendo infor
 
 * [Heurísticas de Nielsen](#)
 * [SUS](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/evaluations/sus.pdf)
+
+# Apresentação
+
+* [Slides](https://github.com/gabeflowers/A3-Usabilidade_e_desenvolvimento_web/blob/main/presentation/slides.pdf)
+* [Vídeo](https://youtu.be/e_FsHPguGoI)
 
 # Tecnologias Usadas
 
